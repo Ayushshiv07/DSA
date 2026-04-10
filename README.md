@@ -20,9 +20,14 @@
 | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Ayushshiv07/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Ayushshiv07/DSA/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Ayushshiv07/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Ayushshiv07/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Ayushshiv07/DSA/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+## Hash Table
+|  |
+| ------- |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Ayushshiv07/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 <!---LeetCode Topics End-->
