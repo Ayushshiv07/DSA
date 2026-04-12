@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Ayushshiv07/DSA/tree/master/0657-robot-return-to-origin) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Ayushshiv07/DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 ## Simulation
 |  |
 | ------- |
@@ -32,4 +33,8 @@
 | ------- |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Ayushshiv07/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Ayushshiv07/DSA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Ayushshiv07/DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 <!---LeetCode Topics End-->
