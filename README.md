@@ -6,6 +6,7 @@
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Ayushshiv07/DSA/tree/master/0657-robot-return-to-origin) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Ayushshiv07/DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ayushshiv07/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Simulation
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 | ------- |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Ayushshiv07/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2463-minimum-total-distance-traveled](https://github.com/Ayushshiv07/DSA/tree/master/2463-minimum-total-distance-traveled) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ayushshiv07/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Ayushshiv07/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Ayushshiv07/DSA/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Ayushshiv07/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
