@@ -58,4 +58,5 @@
 |  |
 | ------- |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ayushshiv07/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Ayushshiv07/DSA/tree/master/3783-mirror-distance-of-an-integer) |
 <!---LeetCode Topics End-->
