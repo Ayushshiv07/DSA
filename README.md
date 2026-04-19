@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Ayushshiv07/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ayushshiv07/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2463-minimum-total-distance-traveled](https://github.com/Ayushshiv07/DSA/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ayushshiv07/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3488-closest-equal-element-queries](https://github.com/Ayushshiv07/DSA/tree/master/3488-closest-equal-element-queries) |
@@ -53,10 +54,15 @@
 ## Binary Search
 |  |
 | ------- |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ayushshiv07/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3488-closest-equal-element-queries](https://github.com/Ayushshiv07/DSA/tree/master/3488-closest-equal-element-queries) |
 ## Math
 |  |
 | ------- |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ayushshiv07/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Ayushshiv07/DSA/tree/master/3783-mirror-distance-of-an-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ayushshiv07/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 <!---LeetCode Topics End-->
