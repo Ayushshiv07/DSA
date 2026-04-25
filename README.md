@@ -29,6 +29,7 @@
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Ayushshiv07/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/Ayushshiv07/DSA/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ayushshiv07/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2615-sum-of-distances](https://github.com/Ayushshiv07/DSA/tree/master/2615-sum-of-distances) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ayushshiv07/DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/Ayushshiv07/DSA/tree/master/3488-closest-equal-element-queries) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Ayushshiv07/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -44,6 +45,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [2615-sum-of-distances](https://github.com/Ayushshiv07/DSA/tree/master/2615-sum-of-distances) |
 | [3488-closest-equal-element-queries](https://github.com/Ayushshiv07/DSA/tree/master/3488-closest-equal-element-queries) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Ayushshiv07/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Ayushshiv07/DSA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -98,4 +100,8 @@
 |  |
 | ------- |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ayushshiv07/DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+## Prefix Sum
+|  |
+| ------- |
+| [2615-sum-of-distances](https://github.com/Ayushshiv07/DSA/tree/master/2615-sum-of-distances) |
 <!---LeetCode Topics End-->
