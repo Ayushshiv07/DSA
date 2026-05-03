@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Ayushshiv07/DSA/tree/master/0657-robot-return-to-origin) |
+| [0796-rotate-string](https://github.com/Ayushshiv07/DSA/tree/master/0796-rotate-string) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Ayushshiv07/DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Ayushshiv07/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ayushshiv07/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -131,4 +132,8 @@
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ayushshiv07/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Ayushshiv07/DSA/tree/master/3225-maximum-score-from-grid-operations) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Ayushshiv07/DSA/tree/master/3742-maximum-path-score-in-a-grid) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Ayushshiv07/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
