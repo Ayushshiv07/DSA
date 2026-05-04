@@ -23,6 +23,7 @@
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Ayushshiv07/DSA/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/Ayushshiv07/DSA/tree/master/0396-rotate-function) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ayushshiv07/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Ayushshiv07/DSA/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -80,6 +81,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Ayushshiv07/DSA/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/Ayushshiv07/DSA/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/Ayushshiv07/DSA/tree/master/0788-rotated-digits) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ayushshiv07/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -128,6 +130,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Ayushshiv07/DSA/tree/master/0048-rotate-image) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ayushshiv07/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ayushshiv07/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Ayushshiv07/DSA/tree/master/3225-maximum-score-from-grid-operations) |
