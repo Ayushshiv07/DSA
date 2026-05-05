@@ -91,6 +91,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Ayushshiv07/DSA/tree/master/0061-rotate-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ayushshiv07/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Greedy
 |  |
@@ -139,4 +140,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Ayushshiv07/DSA/tree/master/0796-rotate-string) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Ayushshiv07/DSA/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
