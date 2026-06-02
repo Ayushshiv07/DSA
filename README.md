@@ -49,6 +49,7 @@
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ayushshiv07/DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/Ayushshiv07/DSA/tree/master/3488-closest-equal-element-queries) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ayushshiv07/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ayushshiv07/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Ayushshiv07/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Ayushshiv07/DSA/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Ayushshiv07/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -90,6 +91,7 @@
 | [2463-minimum-total-distance-traveled](https://github.com/Ayushshiv07/DSA/tree/master/2463-minimum-total-distance-traveled) |
 | [2784-check-if-array-is-good](https://github.com/Ayushshiv07/DSA/tree/master/2784-check-if-array-is-good) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ayushshiv07/DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ayushshiv07/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -98,6 +100,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ayushshiv07/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ayushshiv07/DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/Ayushshiv07/DSA/tree/master/3488-closest-equal-element-queries) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ayushshiv07/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Math
 |  |
 | ------- |
@@ -115,11 +118,13 @@
 | [0061-rotate-list](https://github.com/Ayushshiv07/DSA/tree/master/0061-rotate-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ayushshiv07/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Ayushshiv07/DSA/tree/master/1861-rotating-the-box) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ayushshiv07/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Greedy
 |  |
 | ------- |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Ayushshiv07/DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Ayushshiv07/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ayushshiv07/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Depth-First Search
 |  |
 | ------- |
