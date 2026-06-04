@@ -84,6 +84,7 @@
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Ayushshiv07/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Ayushshiv07/DSA/tree/master/3225-maximum-score-from-grid-operations) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Ayushshiv07/DSA/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ayushshiv07/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Sorting
 |  |
 | ------- |
@@ -113,6 +114,7 @@
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ayushshiv07/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ayushshiv07/DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ayushshiv07/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ayushshiv07/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ayushshiv07/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Ayushshiv07/DSA/tree/master/3783-mirror-distance-of-an-integer) |
 ## Two Pointers
@@ -185,4 +187,8 @@
 |  |
 | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ayushshiv07/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ayushshiv07/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
