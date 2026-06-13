@@ -11,6 +11,7 @@
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ayushshiv07/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/Ayushshiv07/DSA/tree/master/2833-furthest-point-from-origin) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ayushshiv07/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3838-weighted-word-mapping](https://github.com/Ayushshiv07/DSA/tree/master/3838-weighted-word-mapping) |
 ## Simulation
 |  |
 | ------- |
@@ -18,6 +19,7 @@
 | [2069-walking-robot-simulation-ii](https://github.com/Ayushshiv07/DSA/tree/master/2069-walking-robot-simulation-ii) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ayushshiv07/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Ayushshiv07/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3838-weighted-word-mapping](https://github.com/Ayushshiv07/DSA/tree/master/3838-weighted-word-mapping) |
 ## Design
 |  |
 | ------- |
@@ -64,6 +66,7 @@
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Ayushshiv07/DSA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Ayushshiv07/DSA/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ayushshiv07/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3838-weighted-word-mapping](https://github.com/Ayushshiv07/DSA/tree/master/3838-weighted-word-mapping) |
 ## Divide and Conquer
 |  |
 | ------- |
