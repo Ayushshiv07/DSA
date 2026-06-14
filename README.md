@@ -140,6 +140,7 @@
 | [0061-rotate-list](https://github.com/Ayushshiv07/DSA/tree/master/0061-rotate-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ayushshiv07/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Ayushshiv07/DSA/tree/master/1861-rotating-the-box) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ayushshiv07/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ayushshiv07/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ayushshiv07/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ayushshiv07/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -206,6 +207,7 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Ayushshiv07/DSA/tree/master/0061-rotate-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ayushshiv07/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Number Theory
 |  |
 | ------- |
@@ -228,4 +230,8 @@
 |  |
 | ------- |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ayushshiv07/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+## Stack
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ayushshiv07/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
