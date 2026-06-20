@@ -37,6 +37,7 @@
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Ayushshiv07/DSA/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1732-find-the-highest-altitude](https://github.com/Ayushshiv07/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ayushshiv07/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1840-maximum-building-height](https://github.com/Ayushshiv07/DSA/tree/master/1840-maximum-building-height) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Ayushshiv07/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ayushshiv07/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Ayushshiv07/DSA/tree/master/1861-rotating-the-box) |
@@ -103,6 +104,7 @@
 |  |
 | ------- |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Ayushshiv07/DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1840-maximum-building-height](https://github.com/Ayushshiv07/DSA/tree/master/1840-maximum-building-height) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ayushshiv07/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ayushshiv07/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2463-minimum-total-distance-traveled](https://github.com/Ayushshiv07/DSA/tree/master/2463-minimum-total-distance-traveled) |
@@ -127,6 +129,7 @@
 | [0396-rotate-function](https://github.com/Ayushshiv07/DSA/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/Ayushshiv07/DSA/tree/master/0788-rotated-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Ayushshiv07/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1840-maximum-building-height](https://github.com/Ayushshiv07/DSA/tree/master/1840-maximum-building-height) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ayushshiv07/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ayushshiv07/DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Ayushshiv07/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
