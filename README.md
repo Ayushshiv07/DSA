@@ -33,6 +33,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayushshiv07/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ayushshiv07/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0396-rotate-function](https://github.com/Ayushshiv07/DSA/tree/master/0396-rotate-function) |
+| [1301-number-of-paths-with-max-score](https://github.com/Ayushshiv07/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ayushshiv07/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Ayushshiv07/DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Ayushshiv07/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -99,6 +100,7 @@
 | ------- |
 | [0396-rotate-function](https://github.com/Ayushshiv07/DSA/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/Ayushshiv07/DSA/tree/master/0788-rotated-digits) |
+| [1301-number-of-paths-with-max-score](https://github.com/Ayushshiv07/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Ayushshiv07/DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2463-minimum-total-distance-traveled](https://github.com/Ayushshiv07/DSA/tree/master/2463-minimum-total-distance-traveled) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Ayushshiv07/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -217,6 +219,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Ayushshiv07/DSA/tree/master/0048-rotate-image) |
+| [1301-number-of-paths-with-max-score](https://github.com/Ayushshiv07/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ayushshiv07/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1861-rotating-the-box](https://github.com/Ayushshiv07/DSA/tree/master/1861-rotating-the-box) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ayushshiv07/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
