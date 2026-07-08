@@ -13,6 +13,7 @@
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ayushshiv07/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/Ayushshiv07/DSA/tree/master/2833-furthest-point-from-origin) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ayushshiv07/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ayushshiv07/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3838-weighted-word-mapping](https://github.com/Ayushshiv07/DSA/tree/master/3838-weighted-word-mapping) |
 ## Simulation
 |  |
@@ -150,6 +151,7 @@
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ayushshiv07/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Ayushshiv07/DSA/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ayushshiv07/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ayushshiv07/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ayushshiv07/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Ayushshiv07/DSA/tree/master/3783-mirror-distance-of-an-integer) |
 ## Two Pointers
@@ -209,6 +211,7 @@
 | [2615-sum-of-distances](https://github.com/Ayushshiv07/DSA/tree/master/2615-sum-of-distances) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Ayushshiv07/DSA/tree/master/3225-maximum-score-from-grid-operations) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Ayushshiv07/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ayushshiv07/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
