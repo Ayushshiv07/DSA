@@ -37,6 +37,7 @@
 | [0396-rotate-function](https://github.com/Ayushshiv07/DSA/tree/master/0396-rotate-function) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ayushshiv07/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ayushshiv07/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1406-stone-game-iii](https://github.com/Ayushshiv07/DSA/tree/master/1406-stone-game-iii) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Ayushshiv07/DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Ayushshiv07/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Ayushshiv07/DSA/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -105,6 +106,7 @@
 | [0788-rotated-digits](https://github.com/Ayushshiv07/DSA/tree/master/0788-rotated-digits) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ayushshiv07/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Ayushshiv07/DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1406-stone-game-iii](https://github.com/Ayushshiv07/DSA/tree/master/1406-stone-game-iii) |
 | [2463-minimum-total-distance-traveled](https://github.com/Ayushshiv07/DSA/tree/master/2463-minimum-total-distance-traveled) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Ayushshiv07/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Ayushshiv07/DSA/tree/master/3225-maximum-score-from-grid-operations) |
@@ -145,6 +147,7 @@
 | [0396-rotate-function](https://github.com/Ayushshiv07/DSA/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/Ayushshiv07/DSA/tree/master/0788-rotated-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Ayushshiv07/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1406-stone-game-iii](https://github.com/Ayushshiv07/DSA/tree/master/1406-stone-game-iii) |
 | [1840-maximum-building-height](https://github.com/Ayushshiv07/DSA/tree/master/1840-maximum-building-height) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ayushshiv07/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ayushshiv07/DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -294,4 +297,16 @@
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ayushshiv07/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Ayushshiv07/DSA/tree/master/1406-stone-game-iii) |
+## Game Theory
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Ayushshiv07/DSA/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Ayushshiv07/DSA/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
